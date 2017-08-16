@@ -1,0 +1,10 @@
+﻿  Source.cpp
+c:\users\aditya\desktop\project1\project1\source.cpp(53): warning C4018: '<': signed/unsigned mismatch
+c:\users\aditya\desktop\project1\project1\source.cpp(103): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\aditya\desktop\project1\project1\source.cpp(170): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\aditya\desktop\project1\project1\source.cpp(179): warning C4018: '<': signed/unsigned mismatch
+c:\users\aditya\desktop\project1\project1\source.cpp(357): warning C4018: '<': signed/unsigned mismatch
+c:\users\aditya\desktop\project1\project1\source.cpp(372): warning C4018: '<': signed/unsigned mismatch
+c:\users\aditya\desktop\project1\project1\source.cpp(374): warning C4018: '<': signed/unsigned mismatch
+  Project1.vcxproj -> C:\Users\aditya\Desktop\Project1\Debug\Project1.exe
+  Project1.vcxproj -> C:\Users\aditya\Desktop\Project1\Debug\Project1.pdb (Partial PDB)
